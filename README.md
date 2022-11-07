@@ -7,7 +7,7 @@ https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Overvie
 https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Schedule
 
 # Team Members
-Swapnil Ghonge
+Swapnil Ghonge and
 Sricharan Kidambi
 
 
