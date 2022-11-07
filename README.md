@@ -3,5 +3,11 @@ This repository contains the Buildroot environment for the Final Project develop
 
 # Project Overview
 https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Overview
+# Project Schedule
+https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Schedule
+
+# Team Members
+Swapnil Ghonge
+Sricharan Kidambi
 
 
