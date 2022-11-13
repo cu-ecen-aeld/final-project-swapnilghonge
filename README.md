@@ -1,27 +1,11 @@
-# buildroot-rpi
+# Advanced Embedded Software Development(ECEN 5713) - Final Project
+This repository contains the Buildroot environment for the Final Project developed by Swapnil Ghonge and Sricharan Kidambi
 
-We will be using rpi3
+# Project Overview
+https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Overview
+# Project Schedule
+https://github.com/cu-ecen-aeld/final-project-swapnilghonge/wiki/Project-Schedule
 
-Configuration of rpi  for Buildroot:
-----------------------------
-Other configuration of rpi:
-----------------------------
-For models A, B, A+ or B+:
-
-  $ make raspberrypi_defconfig
-
-For model Zero (model A+ in smaller form factor):
-
-  $ make raspberrypi0_defconfig
-
-For model 2 B:
-
-  $ make raspberrypi2_defconfig
-
-For model 3 B and B+:
-
-  $ make raspberrypi3_defconfig
-
-For model 4 B:
-
-  $ make raspberrypi4_defconfig
+# Team Members
+Swapnil Ghonge and
+Sricharan Kidambi
