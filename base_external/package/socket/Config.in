@@ -1,0 +1,4 @@
+onfig BR2_PACKAGE_SOCKET
+	bool "socket"
+	help
+	  Includes the files related to Socket and client
