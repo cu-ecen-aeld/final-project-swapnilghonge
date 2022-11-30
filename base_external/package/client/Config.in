@@ -1,4 +1,4 @@
-config BR2_PACKAGE_SOCKET
-	bool "socket"
+config BR2_PACKAGE_CLIENT
+	bool "client"
 	help
 	  Includes the files related to Socket and client
