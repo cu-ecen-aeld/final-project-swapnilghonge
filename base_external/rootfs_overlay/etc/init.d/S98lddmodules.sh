@@ -1,23 +1,19 @@
 #! /bin/sh
 
-case "$1" in
-    start)
-        modprobe hello.ko
-        modprobe faulty
-        modprobe scull
-        
-        /usr/bin/module_load faulty
-        /usr/bin/scull_load
-        ;;
-    stop)
-        rmmod hello.ko
-        rmmod faulty
-        rmmmod scull
-        /usr/bin/module_unload faulty
-        /usr/bin/scull_unload
-        ;;
-    *)
-    exit 1
-esac
 
+case "$1" in
+start)
+echo "Starting init script for I2C module"
+modprobe i2c-dev
+modprobe i2c-bcm2835
+;;
+stop)
+echo "Removing user modules"
+rmmod i2c-bcm2835
+rmmo i2c-dev
+;;
+*)
+echo "Usage: $0 {start|stop}"
+exit 1
+esac
 exit 0

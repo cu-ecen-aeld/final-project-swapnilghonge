@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HUMIDITY
+	bool "humidity"
+	help
+	  Includes the files related to DHT11

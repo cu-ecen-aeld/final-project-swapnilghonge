@@ -1,0 +1,4 @@
+config BR2_PACKAGE_TEMP
+	bool "tmp"
+	help
+	  Includes the files related to TMP102
