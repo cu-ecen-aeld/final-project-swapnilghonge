@@ -1,5 +1,5 @@
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-CLIENT_VERSION = 'ca7cb19e06b5a2a491a54ea47f167b7f9cae2e51'
+CLIENT_VERSION = '648ac2c5270090a23da86a31ad73f627596f0cbf'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
